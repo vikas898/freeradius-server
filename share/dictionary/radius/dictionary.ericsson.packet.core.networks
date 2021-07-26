@@ -15,5 +15,7 @@ BEGIN-VENDOR	Ericsson-Packet-Core-Networks
 
 ATTRIBUTE	Suggested-Rule-Space			30	string
 ATTRIBUTE	Suggested-Secondary-Rule-Space		31	string
+ATTRIBUTE	Ericsson-ACG-ID		33	string
+ATTRIBUTE	Ericsson-Autherization-Code		34	string
 
 END-VENDOR      Ericsson-Packet-Core-Networks
